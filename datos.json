@@ -1,0 +1,40 @@
+[
+    {
+        "id": "conv01",
+        "fecha": "2024-10-01T23:59",
+        "imagen": "https://www.mincultura.gov.co/convocatorias/PublishingImages/2024/conv-fragmentos.jpg",
+        "alt": "Fragmentos para un proyecto artístico",
+        "titulo": "Fragmentos para un proyecto artístico",
+        "categoria": "Intervención artística",
+        "descripcion": "Fragmentos, Espacio de Arte y Memoria a través del Ministerio de Cultura y del Museo Nacional de Colombia convocan a artistas plásticos y visuales, o artistas con vocación transdisciplinar, colombianos o extranjeros, para realizar una intervención artística en las salas 1 o 3 del espacio. La intervención artística deberá reconocer y dialogar con el contramonumento que la acoge.<br>Estos proyectos deberán ser inéditos, situarse en el horizonte del arte contemporáneo y proponer reflexiones críticas en torno a las múltiples memorias del conflicto, no solo en el contexto colombiano, sino también en otros lugares del mundo. ",
+        "fechaApertura": "1 de abril de 2024",
+        "fechaCierre": "1 de octubre de 2024, hasta las 17:00 p. m.",
+        "fechaResultados": "4 de noviembre de 2024",
+    	"estado": "Abierta",
+        "url": "https://www.fragmentos.gov.co/Paginas/default.aspx",
+    	"terminos": "https://www.mincultura.gov.co/convocatorias/Documents/0273_RESOLUCI%C3%93N_CONVOCATORIA_FRAGMENTOS_2024.pdf",
+    	"documento1": "",
+	    "documento2": "",
+	    "documento3": "",
+        "organizador": "Ministerio de las Culturas"
+    },
+    {
+    "id": "conv02",
+    "fecha": "2024-10-01T23:59",
+    "imagen": "https://www.mincultura.gov.co/convocatorias/PublishingImages/2024/conv-readingcolombia-voragine.jpg",
+    "alt": "Reading Colombia Vorágine 2024",
+    "titulo": "Reading Colombia Vorágine 2024",
+    "categoria": "Estímulos a editoriales",
+    "descripcion": "Para 2024 Reading Colombia tendrá una convocatoria especial con ocasión de la conmemoración de los 100 años de publicación de La Vorágine, en este sentido 5 editoriales extranjeras podrán postularse a la convocatoria y traducir esta obra cumbre de la literatura colombiana y latinoamericana.",
+    "fechaApertura": "27 de febrero de 2024",
+    "fechaCierre": "31 de julio de 2024",
+    "fechaResultados": "Por definir",
+    "estado": "Abierta",
+    "url": "https://readingcolombia.mincultura.gov.co/Paginas/index.aspx",
+    "terminos": "https://www.mincultura.gov.co/prensa/noticias/Paginas/se-abre-la-convocatoria-para-participar-en-la-edicion-especial-de-la-convocatoria-reading-colombia-centenario-voragine.aspx",
+    "documento1": "",
+    "documento2": "",
+    "documento3": "",
+    "organizador": "Ministerio de las Culturas"
+}   
+]
