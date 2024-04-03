@@ -36,5 +36,24 @@
     "documento2": "",
     "documento3": "",
     "organizador": "Ministerio de las Culturas"
-}   
+    },
+    {
+    "id": "conv03",
+    "fecha": "2024-10-01T23:59",
+    "imagen": "https://www.mincultura.gov.co/convocatorias/PublishingImages/2024/conv-mujeres.jpg",
+    "alt": "Mujeres Tejedoras de Vida",
+    "titulo": "Mujeres Tejedoras de Vida",
+    "categoria": "Procesos asociativos de mujeres",
+    "descripcion": "La Dirección de Estrategia, Desarrollo y Emprendimiento (DEDE) del Ministerio de las Culturas, las Artes y los Saberes invita a los colectivos de mujeres víctimas del conflicto armado, o de otras formas de violencia y exclusión, a ser parte del proyecto Mujeres Tejedoras de Vida 2024 con sus iniciativas culturales. ​​​​Se seleccionarán 25 colectivos de mujeres que tendrán acompañamiento técnico, asesoría y formación con enfoque de género para iniciativas de economía popular.",
+    "fechaApertura": "28 de febrero de 2024",
+    "fechaCierre": "19 de marzo de 2024 a las 11:59 p. m.",
+    "fechaResultados": "3 de abril de 2024",
+    "estado": "Cerrada",
+    "url": "https://www.mincultura.gov.co/prensa/noticias/Paginas/esta-abierta-la-convocatoria-mujeres-tejedoras-de-vida-2024.aspx",
+    "terminos": "https://www.mincultura.gov.co/prensa/noticias/Paginas/esta-abierta-la-convocatoria-mujeres-tejedoras-de-vida-2024.aspx",
+    "documento1": "",
+    "documento2": "",
+    "documento3": "",
+    "organizador": "Ministerio de las Culturas"
+    }
 ]
