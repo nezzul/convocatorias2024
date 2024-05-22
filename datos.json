@@ -131,5 +131,24 @@
         "documento2": "",
         "documento3": "",
         "organizador": "Ministerio de las Culturas"
+    },
+    {
+        "id": "conv08",
+        "fecha": "2024-10-3128T23:59",
+        "imagen": "https://www.mincultura.gov.co/convocatorias/PublishingImages/2024/convocatoria-sonidos-1-conv.jpg",
+        "alt": "Convocatoria - Universidad Industrial de Santander",
+        "titulo": "Convocatoria - Universidad Industrial de Santander",
+        "categoria": "Sonidos para la construcción de paz",
+        "descripcion": "Convocatoria Universidad Industrial de Santander para las personas que residan en los departamentos de: Santander, Norte de Santander, Sur de Bolívar, Cesar.<br>👉🏻Ver especificaciones técnicas: https://acortar.link/jo8cEp<br>👉🏻Ver lugar prestación de servicios: https://acortar.link/SSGYrl<br>✅Sitio web de inscripción: https://bit.ly/aspirantes_FR_PSCP.<br>✅Para mayor información comunicarse a: rectoria.prof7@uis.edu.co",
+        "fechaApertura": "09 de mayo de 2024",
+        "fechaCierre": "28 de mayo de 2024 a las 11:59 p. m.",
+        "fechaResultados": "Por definir",
+        "estado": "Abierta",
+        "url": "https://acortar.link/jo8cEp",
+        "terminos": "https://acortar.link/jo8cEp",
+        "documento1": "https://bit.ly/aspirantes_FR_PSCP",
+        "documento2": "",
+        "documento3": "",
+        "organizador": "Ministerio de las Culturas"
     }
 ]
